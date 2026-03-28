@@ -1,3 +1,12 @@
+> Full setup guide: **[openclawtradingsetup.com](https://www.openclawtradingsetup.com)**
+```
+
+---
+
+**Share link:**
+```
+https://github.com/openclawtradingsetup-cpu/openclaw-terminal
+
 ![OpenClaw Terminal](./screenshot.png)
 # OpenClaw Terminal Dashboard
 
