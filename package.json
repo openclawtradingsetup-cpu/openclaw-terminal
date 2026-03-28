@@ -1,4 +1,4 @@
-json{
+{
   "name": "openclaw-terminal",
   "version": "1.0.0",
   "description": "OpenClaw trading terminal dashboards",
