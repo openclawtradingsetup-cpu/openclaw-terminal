@@ -1,4 +1,4 @@
-jsximport PolymarketDashboard from './openclaw-terminal'
+import PolymarketDashboard from './openclaw-terminal'
 import BaseDashboard from './openclaw-base-terminal'
 
 export default function App() {
