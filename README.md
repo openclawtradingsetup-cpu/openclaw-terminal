@@ -1,3 +1,4 @@
+![OpenClaw Terminal](./screenshot.png)
 # OpenClaw Terminal Dashboard
 
 Two React trading terminal dashboards inspired by hacker-aesthetic monitoring tools.
